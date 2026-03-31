@@ -19,4 +19,4 @@ Este repositorio contiene los códigos fuentes y los datos finales utilizados en
 ## Cita
 
 Si utiliza estos datos, por favor cite la tesis:
-Vargas Ojeda, H. J. (2025). *Análisis Estadístico de la Sequía en Paraguay: Una Perspectiva Espacio-Temporal (2000-2023)*. Tesis de Maestría, Universidad Nacional de Asunción.
+Vargas Ojeda, H. J. (2026). *Dinámicas de la sequía en Paraguay y su vínculo con el calentamiento global: Un análisis espacio-temporal (2000-2023)*. Tesis de Maestría, Universidad Nacional de Asunción.
