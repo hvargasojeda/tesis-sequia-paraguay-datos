@@ -1,4 +1,4 @@
-# Datos para la Tesis: Dinámicas de la sequía en Paraguay y su vínculo con el calentamiento global: Un análisis espacio-temporal (2000-2023).
+# Dinámicas de la sequía en Paraguay y su vínculo con el calentamiento global: Un análisis espacio-temporal (2000-2023).
 
 Este repositorio contiene los códigos fuentes y los datos finales utilizados en la tesis de maestría de Hernán J. Vargas Ojeda.
 
